@@ -1,4 +1,4 @@
 # My Apps Policies
 
 
-## [Clad](https://github.com/mohammidkhaled/app-policies.github.io/clad_policies.html)
+## [Clad](https://mohammidkhaled.github.io/app-policies.github.io/clad_policies.html)
